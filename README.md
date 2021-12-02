@@ -1,2 +1,2 @@
 # Proyecto
-Proyecto OOP
+Proyecto Programación Orientada Objetos 
